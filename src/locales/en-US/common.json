@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "Finance Control",
+    "tagline": "Personal & crypto finance"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "registers": "Registers",
+    "categories": "Categories",
+    "banks": "Banks",
+    "movements": "Movements",
+    "incomes": "Incomes",
+    "expenses": "Expenses",
+    "investments": "Investments",
+    "projections": "Projections",
+    "integrations": "Integrations",
+    "binance": "Binance",
+    "openFinance": "Open Finance",
+    "news": "News",
+    "settings": "Settings"
+  },
+  "actions": {
+    "new": "New",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "sync": "Sync"
+  },
+  "common": {
+    "loading": "Loading...",
+    "yes": "Yes",
+    "no": "No",
+    "total": "Total",
+    "active": "Active",
+    "inactive": "Inactive"
+  }
+}

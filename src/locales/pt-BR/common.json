@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "Finance Control",
+    "tagline": "Controle financeiro e cripto"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "registers": "Cadastros",
+    "categories": "Categorias",
+    "banks": "Bancos",
+    "movements": "Movimentação",
+    "incomes": "Receitas",
+    "expenses": "Despesas",
+    "investments": "Investimentos",
+    "projections": "Projeções",
+    "integrations": "Integrações",
+    "binance": "Binance",
+    "openFinance": "Open Finance",
+    "news": "Notícias",
+    "settings": "Configurações"
+  },
+  "actions": {
+    "new": "Novo",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "search": "Buscar",
+    "sync": "Sincronizar"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "yes": "Sim",
+    "no": "Não",
+    "total": "Total",
+    "active": "Ativo",
+    "inactive": "Inativo"
+  }
+}
